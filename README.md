@@ -26,4 +26,5 @@ These are the notes and articles I wrote while learning:
 - [HTTP vs HTTPS](https://medium.com/@sharipovjonibek/http-vs-https-e7a3756e0195)
 - [What is Gunicorn?](https://medium.com/@sharipovjonibek/what-is-gunicorn-e6d441247962)
 - [From Monoliths to APIs](https://medium.com/@sharipovjonibek/from-monoliths-to-apis-8016a876ff45)
+- [Web APIs and How the Web Works](https://medium.com/@sharipovjonibek/web-apis-and-how-the-web-works-70bdb86ccef9)
 
