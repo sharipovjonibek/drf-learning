@@ -29,4 +29,5 @@ These are the notes and articles I wrote while learning:
 - [Web APIs and How the Web Works](https://medium.com/@sharipovjonibek/web-apis-and-how-the-web-works-70bdb86ccef9)
 - [Internet Protocol Suite](https://medium.com/@sharipovjonibek/internet-protocol-suite-075ade9a4910)
 - [HTTP Verbs](https://medium.com/@sharipovjonibek/http-verbs-request-methods-351c1dc99f03)
+- [HTTP Status Codes](https://medium.com/@sharipovjonibek/http-status-codes-a8b46c5719e4)
 
