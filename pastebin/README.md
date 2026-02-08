@@ -9,10 +9,6 @@ Code syntax highlighting is powered by **Pygments**, integrated into the API's H
 - HTML-rendered syntax-highlighted code for a single snippet.
 
 
-### Snippet List
-![Snippet List](images/snippet_list.png)
-- Paginated list of code snippets with hyperlinked navigation.
-
 
 
 
