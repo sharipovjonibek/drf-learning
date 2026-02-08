@@ -12,12 +12,15 @@ Learn how to build a simple REST API using Django REST Framework.
 - User Authentication
 - Viewsets and Routers
 - Schemas and Documentation
+- Pagination
 
 ---
 
 ## Resources
 These are the resources I used while learning:
 - [Django for APIs by William S. Vincent](./resources/django-apis-build-web-python.pdf)
+- [Official Django REST Framework Tutorial - A Beginners Guide](https://learndjango.com/tutorials/official-django-rest-framework-tutorial-beginners)
+- [Official Django REST Framework Tutorial](https://www.django-rest-framework.org/tutorial/1-serialization/)
 
 ---
 
