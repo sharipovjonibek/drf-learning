@@ -37,4 +37,5 @@ These are the notes and articles I wrote while learning:
 - [What is REST?](https://medium.com/@sharipovjonibek/what-is-rest-886438d0c93c)
 - [The problem CORS is trying to solve](https://medium.com/@sharipovjonibek/the-problem-cors-is-trying-to-solve-d64d619877f1)
 - [What is Middleware?](https://medium.com/@sharipovjonibek/what-is-middleware-aa18d31166ed)
+- [Authentication vs Authorization: How DRF Handles Security](https://medium.com/@sharipovjonibek/authentication-vs-authorization-how-drf-handles-security-dec47dc46ad2)
 
